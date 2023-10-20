@@ -1,0 +1,23 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 34px;
+}
+
+.about-img {
+  height: 150px;
+}
+
+.about-heading {
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: 500;
+  color: #6d396b;
+}
+
+.about-text {
+  font-family: 'Roboto';
+  color: #555555;
+}

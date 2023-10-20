@@ -1,0 +1,39 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 34px;
+}
+
+.nav-logo-card {
+  display: flex;
+  align-items: center;
+}
+
+.nav-img {
+  height: 24px;
+  margin-right: 10px;
+}
+
+.nag-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #12022f;
+}
+
+.nav-menu {
+  list-style-type: none;
+  padding-left: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-link {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+  padding-left: 16px;
+  text-decoration: none;
+}
